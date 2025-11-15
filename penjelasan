@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penjelasan Drop - WAPPS.CO</title>
+    
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts: Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="httpss://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" xintegrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        /* Memberi sedikit ruang ekstra untuk list */
+        ul li {
+            margin-bottom: 0.5rem;
+        }
+    </style>
+</head>
+<body class="bg-slate-900 text-slate-300">
+
+    <!-- Header -->
+    <header class="bg-slate-800/80 backdrop-blur-lg shadow-lg shadow-blue-500/10 sticky top-0 z-20">
+        <div class="container mx-auto px-6 py-4 text-center">
+            <a href="#" class="text-3xl font-bold text-blue-500">WAPPS.CO</a>
+            <p class="text-slate-400 mt-1">Pusat Kebutuhan Digital Terpercaya</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 md:px-6 py-12">
+        
+        <!-- Content Section -->
+        <section id="penjelasan" class="max-w-3xl mx-auto mb-12">
+            <div class="bg-slate-800 rounded-xl shadow-lg border border-slate-700 p-8 md:p-10 text-sm">
+                
+                <h1 class="text-3xl font-bold text-white text-center mb-8">🛡️ Memahami Penurunan (Drop)</h1>
+                
+                <p class="mb-6 text-slate-300">Di <strong>WAPPS.CO</strong>, kami berkomitmen untuk memberikan pertumbuhan yang luar biasa untuk akun media sosial Anda. Namun, dalam dunia media sosial yang dinamis, terkadang Anda mungkin melihat angka *likes*, *followers*, atau *views* berkurang setelah pembelian.</p>
+                <p class="mb-6 text-slate-300">Ini disebut **penurunan (drop)**, dan ini adalah bagian wajar dari ekosistem media sosial. Berikut adalah panduan transparan kami tentang mengapa ini terjadi dan bagaimana <strong>WAPPS.CO</strong> menanganinya.</p>
+                
+                <hr class="border-slate-700 my-8">
+
+                <!-- Why Drops Happen -->
+                <div>
+                    <h2 class="text-2xl font-bold text-white mb-5">🎯 1. Mengapa Penurunan Terjadi?</h2>
+                    <p class="mb-6 text-slate-400">Meskipun <strong>WAPPS.CO</strong> selalu bekerja keras untuk menyediakan layanan paling stabil dan berkualitas tinggi, penurunan di luar kendali kami tetap dapat terjadi karena:</p>
+                    
+                    <ul class="space-y-4 text-slate-300 mb-6">
+                        <li>
+                            <strong class="font-semibold text-blue-400 block mb-1">Pembaruan Platform</strong>
+                            Platform seperti Instagram, TikTok, dan YouTube terus memperbarui algoritma mereka. Tujuan mereka adalah membersihkan aktivitas yang dianggap tidak aktif atau tidak autentik. Pembaruan ini terkadang dapat memengaruhi layanan yang telah dikirim.
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-blue-400 block mb-1">Pembersihan Massal (Sweeps)</strong>
+                            Secara berkala, platform melakukan pembersihan skala besar untuk menghapus akun yang mereka curigai sebagai bot atau tidak aktif, yang dapat mengurangi jumlah yang sudah ada.
+                        </li>
+<li>
+                            <strong class="font-semibold text-blue-400 block mb-1">Ketidakcocokan Interaksi (Engagement)</strong>
+                            Jika sebuah akun tiba-tiba mendapat lonjakan besar dalam satu metrik (misalnya, *followers*) tanpa aktivitas alami lainnya (seperti postingan baru, komentar, dll.), ini dapat memicu filter keamanan platform.
+                        </li>
+                    </ul>
+
+                    <!-- Callout Box -->
+                    <div class="bg-blue-900/50 border-l-4 border-blue-500 text-blue-200 p-5 rounded-r-lg my-6">
+                        <p class="font-bold text-white">Penting!</p>
+                        <p class="text-sm mt-1">Di <strong>WAPPS.CO</strong>, kami secara eksklusif fokus pada layanan berkualitas tinggi. Namun, penting untuk dipahami bahwa bahkan layanan terbaik di industri pun dapat mengalami sedikit penurunan selama pembaruan algoritma platform yang besar.</p>
+                    </div>
+                </div>
+
+                <hr class="border-slate-700 my-8">
+
+                <!-- How to Minimize Drops -->
+                <div>
+                    <h2 class="text-2xl font-bold text-white mb-5">🛡️ 2. Cara Meminimalkan Risiko Penurunan</h2>
+                    <p class="mb-6 text-slate-400">Anda tidak dapat mengontrol algoritma platform, tetapi Anda dapat membantu mengamankan akun Anda dengan strategi cerdas:</p>
+                    
+                    <ul class="list-disc list-outside ml-5 space-y-3 text-slate-300 mb-6">
+                        <li>
+                            <strong class="font-semibold text-white">Tumbuh Secara Bertahap:</strong>
+                            Menyebarkan pesanan Anda dari waktu ke waktu selalu terlihat lebih aman dan alami bagi algoritma media sosial.
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-white">Seimbangkan Interaksi Anda:</strong>
+                            Hasil terbaik datang dari pertumbuhan yang seimbang. Cobalah untuk meningkatkan *likes*, komentar, dan *views* secara bersamaan dengan *followers* baru Anda.
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-white">Tetap Aktif di Akun Anda:</strong>
+                            Pastikan akun Anda terus memposting konten baru, berinteraksi dengan audiens, dan terlihat hidup. Akun yang aktif jauh lebih jarang ditandai oleh platform.
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-white">Hindari Lonjakan Ekstrem:</strong>
+                            Memesan 50.000 *followers* dalam semalam pada akun yang baru memiliki 500 *followers* adalah tanda bahaya yang jelas bagi platform mana pun.
+                        </li>
+                    </ul>
+                </div>
+
+                <hr class="border-slate-700 my-8">
+
+                <!-- What to Do -->
+                <div>
+                    <h2 class="text-2xl font-bold text-white mb-5">🚨 3. Apa yang Harus Dilakukan Jika Terjadi Penurunan?</h2>
+                    <p class="mb-6 text-slate-400">Pertama: Jangan panik. <strong>WAPPS.CO</strong> ada di sini untuk membantu.</p>
+
+                    <ul class="list-disc list-outside ml-5 space-y-3 text-slate-300 mb-6">
+                        <li>
+                            <strong class="font-semibold text-white">Periksa Garansi Layanan:</strong>
+                            Saat memesan di *pricelist*, periksa apakah layanan yang Anda pilih memiliki garansi "Isi Ulang" (Refill) dan berapa lama masa garansi tersebut.
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-white">Ajukan Isi Ulang (Refill) di Sini:</strong>
+                            Jika layanan Anda masih dalam masa garansi *refill*, kami akan mengisinya kembali. Silakan ajukan permintaan isi ulang Anda langsung melalui portal khusus kami:
+                            <br>
+                            <!-- Refill Button -->
+                            <a href="https://cswapps.vercel.app" target="_blank" class="inline-block bg-green-500 text-white font-bold py-2 px-5 rounded-full text-base hover:bg-green-600 transition-transform hover:scale-105 shadow-md shadow-green-500/30 my-3">
+                                <i class="fas fa-redo-alt mr-2"></i> Ajukan Refill di Sini
+                            </a>
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-white">Beri Waktu Platform untuk Update:</strong>
+                            Terkadang, platform seperti TikTok atau Spotify memerlukan waktu 24–72 jam untuk memperbarui jumlahnya secara akurat.
+                        </li>
+                        <li>
+                            <strong class="font-semibold text-white">Patuhi Kebijakan Isi Ulang:</strong>
+                            Permintaan isi ulang hanya dapat diproses jika masih dalam periode garansi yang tertera pada deskripsi layanan saat Anda memesan.
+                        </li>
+                    </ul>
+                </div>
+                
+                <hr class="border-slate-700 my-8">
+
+                <!-- Conclusion -->
+                <div class="text-center">
+                    <p class="text-lg text-slate-300 mb-3">Penurunan adalah bagian normal dari industri ini. Kuncinya adalah memilih layanan berkualitas tinggi (seperti di <strong>WAPPS.CO</strong>), menerapkan strategi pertumbuhan yang cerdas, dan mengetahui bahwa kami siap mendukung Anda jika terjadi masalah.</p>
+                    <p class="text-xl font-semibold text-blue-400">Tetap tenang. Tetap cerdas. Teruslah berkembang. 🚀</p>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 mt-12 border-t border-slate-800">
+        <div class="container mx-auto px-6 py-6 text-center">
+            <div class="flex justify-center space-x-6 mb-4">
+                <a href="https://wa.me/6281931194154?text=Halo%20WAPPS.CO" target="_blank" class="text-slate-400 hover:text-white"><i class="fab fa-whatsapp text-2xl"></i></a>
+                <a href="https://instagram.com/wapps.co" target="_blank" class="text-slate-400 hover:text-white"><i class="fab fa-instagram text-2xl"></i></a>
+                <a href="https://t.me/wiifnc" target="_blank" class="text-slate-400 hover:text-white"><i class="fab fa-telegram text-2xl"></i></a>
+            </div>
+            <p class="font-semibold text-white">WAPPS.CO</p>
+            <p class="text-sm text-slate-500">&copy; 2024 WAPPS.CO. Semua harga dapat berubah sewaktu-waktu.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
