@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="id" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Syarat & Ketentuan - WAPPS.CO</title>
+    
+    <!-- Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Google Fonts: Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="httpss://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Font Awesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" xintegrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-slate-900 text-slate-300">
+
+    <!-- Header -->
+    <header class="bg-slate-800/80 backdrop-blur-lg shadow-lg shadow-blue-500/10 sticky top-0 z-20">
+        <div class="container mx-auto px-6 py-4 text-center">
+            <a href="#" class="text-3xl font-bold text-blue-500">WAPPS.CO</a>
+            <p class="text-slate-400 mt-1">Pusat Kebutuhan Digital Terpercaya</p>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 md:px-6 py-12">
+        
+        <!-- Content Section -->
+        <section id="terms" class="max-w-3xl mx-auto mb-12">
+            <div class="bg-slate-800 rounded-xl shadow-lg border border-slate-700 p-8 md:p-10 text-sm">
+                
+                <h1 class="text-3xl font-bold text-white text-center mb-4">KETENTUAN LAYANAN</h1>
+                <p class="text-center text-slate-400 mb-8">Terakhir diperbarui: 14 November 2025</p>
+
+                <div class="space-y-6">
+                    
+                    <!-- Section 1: Ketentuan Umum -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">1. Ketentuan Umum</h2>
+                        <p class="mb-4">Dengan mengakses, memesan, atau menggunakan layanan di WAPPS.CO (“Kami”), Anda (“Pengguna”) menyatakan telah membaca, memahami, dan menyetujui seluruh Ketentuan Layanan ini tanpa pengecualian.</p>
+                        <p class="mb-4">Kami berhak mengubah, memperbarui, atau menyesuaikan ketentuan ini sewaktu-waktu. Versi terbaru akan selalu ditampilkan di situs dan berlaku segera setelah dipublikasikan. Pengguna disarankan untuk meninjau halaman ini secara berkala.</p>
+                    </div>
+
+                    <!-- Section 2: Sifat dan Batasan Layanan -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">2. Sifat dan Batasan Layanan</h2>
+                        <ul class="list-disc list-outside ml-5 space-y-2">
+                            <li>WAPPS.CO menyediakan layanan peningkatan metrik media sosial berupa jumlah pengikut, tampilan, like, komentar, atau interaksi lain sesuai deskripsi produk.</li>
+                            <li>Layanan kami <span class="font-semibold text-yellow-400">tidak terafiliasi, tidak diotorisasi, dan tidak disponsori oleh platform manapun</span> seperti Instagram, TikTok, YouTube, Facebook, dan lainnya.</li>
+                            <li>Kami <span class="font-semibold text-yellow-400">tidak menjamin</span> adanya interaksi aktif, engagement alami, atau pertumbuhan organik dari layanan yang diberikan.</li>
+                            <li>Hasil layanan dapat berbeda-beda tergantung kondisi akun, algoritma platform, dan faktor eksternal lainnya.</li>
+                        </ul>
+                    </div>
+                    
+                    <!-- Section 3: Risiko Penggunaan Layanan -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">3. Risiko Penggunaan Layanan</h2>
+                        <p class="mb-4">Pengguna memahami dan menyetujui bahwa:</p>
+                        <ul class="list-decimal list-outside ml-5 space-y-2">
+                            <li>Setiap platform media sosial memiliki kebijakan dan sistem keamanan internal yang dapat berubah sewaktu-waktu.</li>
+                            <li>Kami <span class="font-semibold text-red-400">tidak bertanggung jawab</span> atas tindakan pihak ketiga seperti:
+                                <ul class="list-disc list-outside ml-5 mt-2 space-y-1 text-slate-400">
+                                    <li>pembatasan fitur,</li>
+                                    <li>penurunan reach,</li>
+                                    <li>penangguhan (suspend) akun,</li>
+                                    <li>penghapusan konten, atau</li>
+                                    <li>perubahan algoritma.</li>
+                                </ul>
+                            </li>
+                            <li>Segala bentuk konsekuensi atas penggunaan layanan dilakukan atas tanggung jawab Pengguna sendiri.</li>
+                        </ul>
+                        
+                        <!-- Disclaimer Callout Box -->
+                        <div class="bg-red-900/50 border-l-4 border-red-500 text-red-200 p-5 rounded-r-lg my-6">
+                            <p class="font-bold text-white">Peringatan Keras</p>
+                            <p class="mt-1">WAPPS.CO tidak dapat menjamin kelangsungan, keamanan, ataupun stabilitas akun Pengguna di platform pihak ketiga mana pun.</p>
+                        </div>
+                    </div>
+
+                    <!-- Section 4: Ketepatan Data -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">4. Ketepatan Data dan Prosedur Pengisian</h2>
+                        <ul class="list-disc list-outside ml-5 space-y-2 mb-4">
+                            <li>Pengguna bertanggung jawab penuh atas <span class="font-semibold text-white">ketepatan username, link akun, dan data lain</span> yang diberikan saat pemesanan.</li>
+                            <li>Kesalahan data yang menyebabkan kegagalan layanan <span class="font-semibold text-red-400">bukan tanggung jawab WAPPS.CO</span>.</li>
+                            <li>Pesanan yang sedang diproses <span class="font-semibold text-red-400">tidak dapat dibatalkan dan tidak dapat diubah</span>.</li>
+                        </ul>
+
+                        <!-- Akun Private Callout Box -->
+                        <div class="bg-amber-900/50 border-l-4 border-amber-500 text-amber-200 p-5 rounded-r-lg my-6">
+                            <h3 class="font-bold text-white text-lg mb-2"><i class="fas fa-lock mr-2"></i>Kewajiban Status Akun (PENTING)</h3>
+                            <p class="mb-3">Untuk layanan penambahan pengikut atau interaksi, <span class="font-semibold text-white">akun WAJIB dalam kondisi public (tidak private)</span> selama proses pengisian berlangsung.</p>
+                            <p class="mb-2">Jika akun berubah menjadi private sebelum pengisian selesai, atau ditemukan private saat proses dimulai:</p>
+                            <p class="font-semibold text-white text-center bg-red-800/50 py-2 px-3 rounded-lg">→ Pesanan dianggap hangus dan tidak dapat di-refund maupun diulang.</p>
+                            <p class="mt-3">Pengguna bertanggung jawab memastikan akun tetap public hingga layanan dinyatakan selesai oleh sistem.</p>
+                        </div>
+                    </div>
+
+                    <!-- Section 5: Garansi Refill -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">5. Garansi Pengisian Ulang (Refill)</h2>
+                        <p class="mb-4">Beberapa layanan menyediakan garansi refill dengan ketentuan sebagai berikut:</p>
+                        <ul class="list-disc list-outside ml-5 space-y-2">
+                            <li>Refill hanya tersedia sesuai periode dan jenis layanan yang tertera pada halaman produk.</li>
+                            <li>Klaim refill hanya dapat dilakukan melalui formulir resmi yang disediakan.</li>
+                            <li>Akun harus <span class="font-semibold text-white">tetap public</span> selama masa garansi. Jika akun menjadi private, garansi otomatis dianggap hangus.</li>
+                            <li>Waktu pengerjaan refill berkisar antara <span class="font-semibold text-cyan-400">2–5 hari kerja</span>, tergantung antrean.</li>
+                            <li>Garansi tidak berlaku apabila terjadi perubahan username atau perubahan signifikan pada akun oleh Pengguna.</li>
+                        </ul>
+                    </div>
+
+                    <!-- Section 6: Pembayaran -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">6. Pembayaran dan Kebijakan Pengembalian Dana</h2>
+                        <ul class="list-disc list-outside ml-5 space-y-2">
+                            <li>Semua pembayaran bersifat <span class="font-semibold text-red-400">final, sah, dan tidak dapat dikembalikan (non-refundable)</span>.</li>
+                            <li>Dengan melakukan pembayaran, Pengguna setuju untuk <span class="font-semibold text-red-400">tidak mengajukan dispute, sengketa, ataupun chargeback</span> melalui penyedia pembayaran mana pun.</li>
+                            <li>Jika Pengguna tetap mengajukan dispute/chargeback:
+                                <ul class="list-disc list-outside ml-5 mt-2 space-y-1 text-slate-400">
+                                    <li>seluruh pesanan aktif akan dibatalkan,</li>
+                                    <li>layanan yang telah diberikan dapat ditarik kembali, dan</li>
+                                    <li>akun Pengguna di WAPPS.CO dapat dinonaktifkan permanen.</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!-- Section 7: Penggunaan Dilarang -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">7. Penggunaan yang Dilarang</h2>
+                        <p class="mb-4">Pengguna dilarang menggunakan layanan untuk:</p>
+                        <ul class="list-disc list-outside ml-5 space-y-2 text-slate-400">
+                            <li>aktivitas yang melanggar hukum,</li>
+                            <li>tindakan penipuan,</li>
+                            <li>spamming atau automatisasi berlebihan,</li>
+                            <li>aktivitas yang bertentangan dengan ketentuan platform media sosial,</li>
+                            <li>aktivitas yang dapat menyebabkan kerugian bagi pihak ketiga.</li>
+                        </ul>
+                        <p class="mt-4">Segala risiko, tuntutan, atau kerugian yang timbul dari pelanggaran ini menjadi tanggung jawab Pengguna sepenuhnya.</p>
+                    </div>
+
+                    <!-- Section 8: Pernyataan -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">8. Pernyataan dan Pembebasan Tanggung Jawab</h2>
+                        <p class="mb-4">Dengan menggunakan layanan, Pengguna menyatakan bahwa:</p>
+                        <ul class="list-disc list-outside ml-5 space-y-2">
+                            <li>Pengguna memahami sepenuhnya sifat layanan serta potensi risiko yang mungkin timbul.</li>
+                            <li>Pengguna menggunakan layanan atas kehendak dan tanggung jawab pribadi.</li>
+                            <li>Pengguna melepaskan WAPPS.CO dari tuntutan, klaim, atau tanggung jawab apa pun terkait konsekuensi penggunaan layanan yang berada di luar kendali kami.</li>
+                        </ul>
+                    </div>
+
+                    <!-- Section 9: Persetujuan -->
+                    <div>
+                        <h2 class="text-2xl font-bold text-white mb-4">9. Persetujuan</h2>
+                        <p class="mb-4">Pengguna dianggap memberikan persetujuan penuh terhadap seluruh Ketentuan Layanan ini dengan melanjutkan pemesanan atau penggunaan layanan di WAPPS.CO.</p>
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-slate-900 mt-12 border-t border-slate-800">
+        <div class="container mx-auto px-6 py-6 text-center">
+            <div class="flex justify-center space-x-6 mb-4">
+                <a href="https://wa.me/6281931194154?text=Halo%20WAPPS.CO" target="_blank" class="text-slate-400 hover:text-white"><i class="fab fa-whatsapp text-2xl"></i></a>
+                <a href="https://instagram.com/wapps.co" target="_blank" class="text-slate-400 hover:text-white"><i class="fab fa-instagram text-2xl"></i></a>
+                <a href="https://t.me/wiifnc" target="_blank" class="text-slate-400 hover:text-white"><i class="fab fa-telegram text-2xl"></i></a>
+            </div>
+            <p class="font-semibold text-white">WAPPS.CO</p>
+            <p class="text-sm text-slate-500">&copy; 2024 WAPPS.CO. Semua harga dapat berubah sewaktu-waktu.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
